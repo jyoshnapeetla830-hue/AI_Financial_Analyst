@@ -67,4 +67,4 @@ This project uses a sample/demo financial dataset for demonstration and analysis
 
 ## Dashboard Preview
 
-![AI Financial Analyst Dashboard](AI_Financial_Analyst_Dashboard.png)
+![AI Financial Analyst Dashboard](AI_Financial_Analyst_Dashboard.png.png)
