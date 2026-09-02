@@ -46,4 +46,4 @@ The dashboard displays:
 ### 1. Install dependencies
 
 ```bash
-python app.py
+pip install -r requirements.txt
