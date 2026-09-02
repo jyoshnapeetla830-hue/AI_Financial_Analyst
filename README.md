@@ -64,3 +64,7 @@ http://127.0.0.1:5000
 ## Note
 
 This project uses a sample/demo financial dataset for demonstration and analysis purposes. The financial figures should not be treated as official company financial statements.
+
+## Dashboard Preview
+
+![AI Financial Analyst Dashboard](AI_Financial_Analyst_Dashboard.png)
