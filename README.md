@@ -41,7 +41,7 @@ The dashboard displays:
 - Total Liabilities
 - Operating Cash Flow
 
-## How to Run
+   ## How to Run
 
 ### 1. Install dependencies
 
@@ -62,3 +62,4 @@ Open your browser and go to:
 ```text
 http://127.0.0.1:5000
 ```
+
