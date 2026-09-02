@@ -61,3 +61,6 @@ Open your browser and go to:
 ```text
 http://127.0.0.1:5000
 ```
+## Note
+
+This project uses a sample/demo financial dataset for demonstration and analysis purposes. The financial figures should not be treated as official company financial statements.
